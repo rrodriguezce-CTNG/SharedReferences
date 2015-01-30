@@ -4,7 +4,7 @@
     <EditTextPreference android:key="nombre"
         android:dialogTitle="Escriba su nombre"
         android:summary="Está permitido definir el nombre"
-        android:title="Nombre">
+        android:title="Nombre ">
     </EditTextPreference>
 
 
